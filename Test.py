@@ -5,8 +5,6 @@ Created on Mon Feb 01 12:19:13 2016
 @author: az18159
 """
 
-#HALLOOOOOOO
-
 import numpy as np
 import pandas as pd
 from FourierAnalysis import FourierAnalysis
